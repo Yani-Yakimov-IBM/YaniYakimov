@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yani Yakimov</h1>
 <h3 align="center">A back end developer</h3>
 
-- 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,27 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaniyakimov&show_icons=true&locale=en" alt="yaniyakimov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaniyakimov&" alt="yaniyakimov" /></p>
-
-<!-- ### Hi there 👋
-- 🌱 I’m currently learning Java
-- ![image](https://user-images.githubusercontent.com/126487118/226177726-5bce3ff7-a2a4-4859-b17e-2b278282ca02.png) https://www.linkedin.com/in/yani-yakimov/
-- **TECHNOLOGY :computer:** 
-- ![image](https://user-images.githubusercontent.com/126487118/226168668-cab34373-3653-4020-8cd5-afe9b584e363.png) ![image](https://user-images.githubusercontent.com/126487118/226168680-61698c91-e94c-45be-bf6c-1e13433ea6be.png) ![image](https://user-images.githubusercontent.com/126487118/226168686-2d6f2d63-1204-4e82-a6c2-9cf9805da1e4.png)
-- **HOBBY  :camera:** -->
-
-
-
-<!--
-**YaniYakimov/YaniYakimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
