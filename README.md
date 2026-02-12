@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yani Yakimov</h1>
 <h3 align="center">A back end developer</h3>
 
-- 🌱 I’m currently learning **Java**
+<!--- 🌱 I’m currently learning **Java**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
